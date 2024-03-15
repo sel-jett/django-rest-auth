@@ -1,8 +1,8 @@
 black
+channels
 Django
+django-rest-framework
 flake8
 isort
 pre-commit
 python-dotenv
-channels
-django-rest-framework
