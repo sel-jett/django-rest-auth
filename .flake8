@@ -1,0 +1,8 @@
+# Set the maximum allowed line length to 88 characters.
+max-line-length = 88
+
+# Set the maximum McCabe complexity allowed for a function.
+max-complexity = 10
+
+# W503: Line break occurred before a binary operator
+ignore = W503
